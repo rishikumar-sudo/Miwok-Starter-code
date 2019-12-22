@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:design:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\6c58e94dfdd2890631587f068db2b0c8\design-23.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\7e49706f68e5f618f8958dc595258a99\appcompat-v7-23.4.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\d98298ce3f3d4dc85d9269758283feb9\animated-vector-drawable-23.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\7fef0afd6a0f6277c743816c1c292696\support-vector-drawable-23.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\dc665abd46987d5fe3d3e24e54c6243e\recyclerview-v7-23.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\2fa4665bee0ea8aa6d6c3c3c1dfc89db\support-v4-23.4.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:6:5-29:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\6c58e94dfdd2890631587f068db2b0c8\design-23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\6c58e94dfdd2890631587f068db2b0c8\design-23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\7e49706f68e5f618f8958dc595258a99\appcompat-v7-23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\7e49706f68e5f618f8958dc595258a99\appcompat-v7-23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\d98298ce3f3d4dc85d9269758283feb9\animated-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\d98298ce3f3d4dc85d9269758283feb9\animated-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\7fef0afd6a0f6277c743816c1c292696\support-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\7fef0afd6a0f6277c743816c1c292696\support-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\2fa4665bee0ea8aa6d6c3c3c1dfc89db\support-v4-23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\2fa4665bee0ea8aa6d6c3c3c1dfc89db\support-v4-23.4.0\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.android.miwok.ColorsActivity
+ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:13:9-14:57
+	android:parentActivityName
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:14:13-55
+	android:name
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:13:19-49
+activity#com.example.android.miwok.FamilyActivity
+ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:15:9-16:57
+	android:parentActivityName
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:16:13-55
+	android:name
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:15:19-49
+activity#com.example.android.miwok.NumberActivity
+ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:17:9-18:58
+	android:parentActivityName
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:18:13-55
+	android:name
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:17:19-49
+activity#com.example.android.miwok.PhrasesActivity
+ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:19:9-20:57
+	android:parentActivityName
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:20:13-55
+	android:name
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:19:19-50
+activity#com.example.android.miwok.MainActivity
+ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:21:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\6c58e94dfdd2890631587f068db2b0c8\design-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\6c58e94dfdd2890631587f068db2b0c8\design-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\7e49706f68e5f618f8958dc595258a99\appcompat-v7-23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\7e49706f68e5f618f8958dc595258a99\appcompat-v7-23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\d98298ce3f3d4dc85d9269758283feb9\animated-vector-drawable-23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\d98298ce3f3d4dc85d9269758283feb9\animated-vector-drawable-23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\7fef0afd6a0f6277c743816c1c292696\support-vector-drawable-23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\7fef0afd6a0f6277c743816c1c292696\support-vector-drawable-23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\dc665abd46987d5fe3d3e24e54c6243e\recyclerview-v7-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\dc665abd46987d5fe3d3e24e54c6243e\recyclerview-v7-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\2fa4665bee0ea8aa6d6c3c3c1dfc89db\support-v4-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\2fa4665bee0ea8aa6d6c3c3c1dfc89db\support-v4-23.4.0\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Rishu\.gradle\caches\transforms-2\files-2.1\7e49706f68e5f618f8958dc595258a99\appcompat-v7-23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rishu\Desktop\Import\Miwok-Starter-code\app\src\main\AndroidManifest.xml

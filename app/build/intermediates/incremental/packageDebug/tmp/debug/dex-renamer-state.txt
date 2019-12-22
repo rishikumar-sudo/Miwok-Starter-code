@@ -1,0 +1,4 @@
+#Sun Dec 15 00:44:09 IST 2019
+base.0=C\:\\Users\\Rishu\\Desktop\\Import\\Miwok-Starter-code\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
